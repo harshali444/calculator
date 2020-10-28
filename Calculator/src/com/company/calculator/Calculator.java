@@ -12,7 +12,7 @@ public class Calculator {
 		
 		int c = a + b;
 		
-		System.out.println("addition is : " + c);
+		System.out.println("addition is : " + c);10
 		
 		
 		
