@@ -12,11 +12,20 @@ public class Calculator {
 
 		System.out.println("b =");
 		byte b = myObj.nextByte();
-
 		
+		System.out.println("c =");
+		byte f = myObj.nextByte();
+		
+		System.out.println("d =");
+		byte d = myObj.nextByte();
+
 		int c = a + b;
 		
+		int e = f * d;
+		
 		System.out.println("addition is : " + c);
+		System.out.println("multiplication is : " + e);
+
 		
 		
 		
